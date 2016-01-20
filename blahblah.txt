@@ -15,3 +15,9 @@ def take_shower(int simon):
 			return clean_simon
 		else
 			goto take_shower(simon)
+
+			
+private function hungry(Person eater) {
+  if (eater.equals(Kieran))
+    foodstores.delete
+}
