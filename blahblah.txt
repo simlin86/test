@@ -5,3 +5,13 @@ simon smells
 
 
 asdfasdfasdf
+
+
+def take_shower(int simon):
+
+	while stinky:
+		stand in shower
+		if water == "on":
+			return clean_simon
+		else
+			goto take_shower(simon)
