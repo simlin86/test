@@ -5,3 +5,9 @@ simon smells
 
 
 asdfasdfasdf
+
+
+private function hungry(Person eater) {
+  if (eater.equals(Kieran))
+    foodstores.delete
+}
